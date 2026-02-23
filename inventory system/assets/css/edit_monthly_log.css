@@ -1,0 +1,66 @@
+#editModalContent {
+    background: #fff;
+    max-width: 400px;
+    margin: 40px auto 0 auto;
+    margin-top: -1em;
+    padding: 0;
+    border-radius: 12px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.18);
+    position: relative;
+}
+#editMonthlyLogForm {
+    font-family: 'Roboto', Arial, sans-serif;
+    padding: 32px 28px 18px 28px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+#editMonthlyLogForm label {
+    font-weight: 500;
+    color: #2c3e50;
+    margin-bottom: 2px;
+    margin-top: 8px;
+}
+#editMonthlyLogForm input[type="text"],
+#editMonthlyLogForm input[type="number"],
+#editMonthlyLogForm input[type="date"] {
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 6px;
+    font-size: 1em;
+    margin-top: 4px;
+    box-sizing: border-box;
+    background: #f8f9fa;
+    transition: border 0.2s;
+}
+#editMonthlyLogForm input:focus {
+    border-color: #28a745;
+    outline: none;
+}
+#editMonthlyLogForm button {
+    margin-top: 18px;
+    padding: 12px 0;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 1.08em;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+#editMonthlyLogForm button:hover {
+    background: #0056b3;
+}
+#editModalHeader {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 18px 28px 0 28px;
+}
+#editModalHeader h2 {
+    margin: 0;
+    font-size: 1.3em;
+    color: #2c3e50;
+    font-weight: 700;
+}
