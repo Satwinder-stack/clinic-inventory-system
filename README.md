@@ -10,7 +10,6 @@ This project is a **web-based inventory management platform designed for healthc
 Additionally, the platform assists clinics in **organizing inventory data for reporting purposes**, making it easier to prepare submissions for the **Department of Health (DOH)** or other regulatory requirements.
 
 ---
-
 ## Core Features
 
 - **Automated Stock Level Monitoring**  
