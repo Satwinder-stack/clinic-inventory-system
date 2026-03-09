@@ -6,9 +6,7 @@ $dbname     = "if0_40719545_clinic_inventory";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
-}
+
 
 if (!function_exists('log_history')) {
     function log_history($conn, $item_id, $action, $field_changed, $old_value, $new_value) {
