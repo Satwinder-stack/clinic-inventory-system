@@ -11,7 +11,7 @@ Additionally, the platform assists clinics in **organizing inventory data for re
 
 ---
 ## Core Features
-
+dasd
 - **Automated Stock Level Monitoring**  
   Tracks inventory quantities in real time to maintain proper supply levels.
 
