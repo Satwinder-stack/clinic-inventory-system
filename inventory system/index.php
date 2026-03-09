@@ -6,7 +6,7 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 
-if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['quantity'], $_POST['expiration_date'], $_POST['lot_no'])) {
+($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['quantity'], $_POST['expiration_date'], $_POST['lot_no'])) {
     $name = trim($_POST['name']);
     $quantity = intval($_POST['quantity']);
     $expiration_date = $_POST['expiration_date'];
