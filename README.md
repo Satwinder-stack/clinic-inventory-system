@@ -11,6 +11,7 @@ Additionally, the platform assists clinics in **organizing inventory data for re
 
 ---
 dasdasdas
+dasdasdasd
 ## Core Features
 
 - **Automated Stock Level Monitoring**  
