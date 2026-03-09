@@ -2,7 +2,7 @@
 **Satwinder Jeerh**  
 **Role:** Developer  
 
----a=asd
+---a=asdf
 
 ## Purpose
 This project is a **web-based inventory management platform designed for healthcare providers** to efficiently track medical supplies, monitor expiration dates, and manage stock levels. The system helps ensure that essential medications and medical equipment remain available for patient care while reducing unnecessary waste caused by expired items.
